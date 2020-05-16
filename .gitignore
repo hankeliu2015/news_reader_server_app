@@ -38,4 +38,5 @@
 yarn-debug.log*
 .yarn-integrity
 
-/client/*
+# testing ignore file in client folder
+/client/
